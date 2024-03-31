@@ -1,0 +1,82 @@
+{
+    "Free Throw": {
+        "User FT Angle": {
+            "Position X": "0xE5C",
+            "Position Y": "0xE60",
+            "Position Z": "0xE64",
+            "Orientation X": "0xF10",
+            "Orientation Y": "0xF0C",
+            "Orientation Z": "0xF14",
+            "Focal Length": "0xFBC"
+        },
+        "Angle 2B": {
+            "Position X": "0x10BC",
+            "Position Y": "0x10C0",
+            "Position Z": "0x10C4",
+            "Orientation X": "0x10EC",
+            "Orientation Y": "0x10E8",
+            "Orientation Z": "0x10F0",
+            "Focal Length": "0x1114"
+        },
+        "Angle 2C": {
+            "Position X": "0x1130",
+            "Position Y": "0x1134",
+            "Position Z": "0x1138",
+            "Orientation X": "0x1160",
+            "Orientation Y": "0x115C",
+            "Orientation Z": "0x1164",
+            "Focal Length": "0x1188"
+        },
+        "Angle 2D": {
+            "Position X": "0xE88",
+            "Position Y": "0xE8C",
+            "Position Z": "0xE90",
+            "Orientation X": "0xF40",
+            "Orientation Y": "0xF3C",
+            "Orientation Z": "0xF44",
+            "Focal Length": "0xFD8"
+        },
+        "Angle 2E": {
+            "Position X": "0xEB4",
+            "Position Y": "0xEB8",
+            "Position Z": "0xEBC",
+            "Orientation X": "0xF6C",
+            "Orientation Y": "0xF68",
+            "Orientation Z": "0xF70",
+            "Focal Length": "0xFF4"
+        },
+        "Angle 2F": {
+            "Position X": "0xEE0",
+            "Position Y": "0xEE4",
+            "Position Z": "0xEE8",
+            "Orientation X": "0xF98",
+            "Orientation Y": "0xF94",
+            "Orientation Z": "0xF9C",
+            "Focal Length": "0x1010"
+        }
+    },
+    "Press Box": {
+        "Basic Settings": {
+            "Position X": "0x6F14",
+            "Position Y": "0x6F18",
+            "Position Z": "0x6F1C",
+            "Zoom Min 0": "0x7060",
+            "Zoom Min 1": "0x707C",
+            "Zoom Min 2": "0x7098",
+            "Zoom Min 3": "0x70B4"
+        },
+        "Advanced Settings": {
+            "Orientation Tolerance X": "0x6F60",
+            "Orientation Tolerance Y": "0x6F5C",
+            "Orientation Tolerance Z": "0x6F64",
+            "zoomdiff_target_0": "0x7140",
+            "zoomdiff_target_1": "0x715C",
+            "maxaimoffset_0": "0x71E8",
+            "maxaimoffset_1": "0x7204",
+            "hmin_0": "0x7220",
+            "hmin_1": "0x723C",
+            "hmax_0": "0x7258",
+            "hmax_1": "0x7274"
+        }
+    }
+}
